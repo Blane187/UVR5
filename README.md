@@ -18,11 +18,6 @@ The development is ongoing to adapt full function of UVR. VR and MDX architectur
 
 The original readme of [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui):
 
-<img src="https://raw.githubusercontent.com/Anjok07/ultimatevocalremovergui/master/gui_data/img/UVR_5_5_1.png?raw=true" />
-
-[![Release](https://img.shields.io/github/release/anjok07/ultimatevocalremovergui.svg)](https://github.com/anjok07/ultimatevocalremovergui/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/anjok07/ultimatevocalremovergui/total.svg)](https://github.com/anjok07/ultimatevocalremovergui/releases)
-
 ## About
 
 This application uses state-of-the-art source separation models to remove vocals from audio files. UVR's core developers trained all of the models provided in this package (except for the Demucs v3 and v4 4-stem models).
